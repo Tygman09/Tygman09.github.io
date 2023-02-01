@@ -1,0 +1,23 @@
+#maindiv {
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+#label {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+#start_fortnite {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
